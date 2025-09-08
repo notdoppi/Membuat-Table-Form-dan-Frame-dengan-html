@@ -1,5 +1,5 @@
 # Membuat-Table-Form-dan-Frame-dengan-html
-Membuat table, form, dan frame di .html
+Membuat table, form, dan frame di .html. Pada pertemuan kali ini juga kita tetap diminta untuk bisa menerapkan ilmu mengetik cepat terhadap codingan.
 
 ## Table dan Form
 ![Image Alt](https://github.com/notdoppi/Membuat-Table-Form-dan-Frame-dengan-html/blob/f4b858d56de0da3eda6a97f8c5f2d9436fba2697/TableForm.jpg)
